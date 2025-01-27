@@ -6,11 +6,12 @@ This project implements a simple PHP MVC (Model-View-Controller) framework. It s
 ## Features
 - Lightweight MVC structure
 - Routing system
-- Database interaction using PDO
+- Database interaction using Mysqli
 - Template engine for views
 - Organized codebase following OOP principles
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/php-mvc-project-mofi.git
+   git clone https://github.com/Nayemulzannat/php-mvc-project.git
+🌟 Run the Application:    ```bashphp -S localhost:8000 -t public
