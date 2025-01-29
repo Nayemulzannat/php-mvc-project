@@ -8,7 +8,7 @@ This project implements a simple PHP MVC (Model-View-Controller) framework. It s
 - Routing system
 - Database interaction using Mysqli
 - Template engine for views
-- Organized codebase following OOP principles
+- Organized codebase following OOP principles.
 
 ## Installation
 1. Clone the repository:
